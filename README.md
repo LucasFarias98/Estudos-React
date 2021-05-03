@@ -1,2 +1,2 @@
 # Estudos-React
-Projeto realizado através de estudos de React através da plataforma Alura.
+Projeto realizado com o aprendizado de React através da plataforma Alura.
